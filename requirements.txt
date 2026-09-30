@@ -2,6 +2,7 @@
 llama-index-core
 llama-index-llms-groq
 llama-index-embeddings-HuggingFace
+llama-index-embeddings-openai
 
 # Database drivers and adapters
 sqlalchemy
