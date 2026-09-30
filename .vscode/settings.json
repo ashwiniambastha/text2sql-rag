@@ -1,4 +1,4 @@
 {
-    "autocommit.enabled": true,
-    "autocommit.useAI": false
+    "autocommit.useAI": false,
+    "autocommit.enabled": true
 }
