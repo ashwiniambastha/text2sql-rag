@@ -1,7 +1,7 @@
 # Core LlamaIndex packages
 llama-index-core
-llama-index-llms-openai
-llama-index-embeddings-openai
+llama-index-llms-groq
+llama-index-embeddings-HuggingFace
 
 # Database drivers and adapters
 sqlalchemy
