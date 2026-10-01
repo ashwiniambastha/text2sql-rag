@@ -22,3 +22,4 @@ python-dotenv
 # Optional but recommended
 openai  # Direct OpenAI API access
 pydantic  # For structured outputs
+langchain
